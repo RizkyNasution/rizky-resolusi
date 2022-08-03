@@ -1,0 +1,8 @@
+RENCANA KONTEN RIZKY
+
+- JavaScript
+  * ES6
+  * Framewok JS
+- PHP Framework
+- Interview
+- Vlogs
