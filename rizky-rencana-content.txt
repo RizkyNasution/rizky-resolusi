@@ -3,6 +3,7 @@ RENCANA KONTEN RIZKY
 - JavaScript
   * ES6
   * Framewok JS
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlogs
