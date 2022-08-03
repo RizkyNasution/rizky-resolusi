@@ -1,5 +1,7 @@
 RENCANA KONTEN RIZKY
 
+- HTML
+- CSS
 - JavaScript
   * ES6
   * Framewok JS
