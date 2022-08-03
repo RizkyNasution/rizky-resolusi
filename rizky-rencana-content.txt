@@ -1,7 +1,7 @@
 RENCANA KONTEN RIZKY
 
-- Framewrok CSS
-  > Bootstrap
+- HTML
+- CSS
 - JavaScript
   * ES6
   * Framewok JS
