@@ -4,6 +4,7 @@ RENCANA KONTEN RIZKY
   * ES6
   * Framewok JS
    > Vue
+   > React
 - Struktur Data Dasar
 - PHP Framework
   > Laravel
